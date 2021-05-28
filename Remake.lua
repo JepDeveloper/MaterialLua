@@ -43,7 +43,7 @@ local Themes = {
 	},
     ExeTheme = {
         MainFrame = Color3.fromRGB(20, 20, 20),
-        Minimise = Color3.fromRGB(0,255,255),
+        Minimise = Color3.fromRGB(60,60,60),
         MinimiseAccent = Color3.fromRGB(0,255,255),
         Maximise = Color3.fromRGB(255,0,0),
         MaximiseAccent = Color3.fromRGB(189, 183, 177),
